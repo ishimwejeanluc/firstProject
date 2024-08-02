@@ -13,16 +13,18 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/HP/Desktop/JAVA/postgresql-42.3.9.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 10.1/lib/jsp-api.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 10.1/lib/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 10.1/lib/apache-tomcat-10.1.24-windows-x64/apache-tomcat-10.1.24/lib/postgresql-42.3.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Programs/apache-log4j-2.23.1-bin/log4j-api-2.23.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Programs/apache-log4j-2.23.1-bin/log4j-core-2.23.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
